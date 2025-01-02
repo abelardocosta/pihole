@@ -15,3 +15,4 @@ windows.policies.live.net
 maps.windows.com
 settings-win.data.microsoft.com
 client.wns.windows.com
+x.com
